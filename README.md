@@ -1,3 +1,3 @@
 # SE_EXAM
 External practical
-  -ms panchal ds
+  -ms panchal ds(co-ordinator)
